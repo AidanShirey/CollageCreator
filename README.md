@@ -1,6 +1,8 @@
 # Collage Creator
 Collage Creator is an app created with the vision to create collages from local storage or pictures taken from the camera. The application allows users to choose from a variety of preset collage layouts to insert their photos into. After the user has filled the collage with the desired pictures, they can modify it using the built in paint brush and filters. Once satisfied with their collage, they can save it to their device.
 
+Created by Aidan Shirey, Jordan Watkins, James Gammon, Ceejay Deguzman, and Rafael Diaz Cruz.
+
 # External Libraries Currently In Use
 * PhotoFilter - https://github.com/hgayan7/FilterLibrary
 
